@@ -9,11 +9,11 @@ This is an interactive Power BI dashboard designed to visualize and analyze the 
 
 ---
 
-Total Sales: 2.30M
-Total Profit: 286.40K
-Total Quantity Sold: 40K
-Total Discount: 1.56K
-Total Customers: 793
+- Total Sales: 2.30M
+- Total Profit: 286.40K
+- Total Quantity Sold: 40K
+- Total Discount: 1.56K
+- Total Customers: 793
 
 ⚡ All metrics update dynamically based on slicer selections (year or state).
 
